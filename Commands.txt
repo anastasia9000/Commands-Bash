@@ -1,0 +1,5 @@
+1) file2.txt is being deleted from Level2, and Level1 is being removed from its current directory ROOT but is not being deleted.
+
+2) ROOT
+	<level
+	 file1.txt
